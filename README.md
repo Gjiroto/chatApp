@@ -1,4 +1,4 @@
-##**Simple Chat Application with Python and Tkinter**
+**Simple Chat Application with Python and Tkinter**
 -----------------------------------------------
 
 This project implements a basic client-server chat application using Python's socket library for networking and Tkinter for the graphical user interface (GUI).
