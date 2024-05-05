@@ -50,7 +50,11 @@ This project implements a basic client-server chat application using Python's so
 
 *   Python 3 ([https://www.python.org/](https://www.python.org/))
     
-*   Tkinter (usually included in standard Python installations)
+*   Tkinter (usually included in standard Python installations) if no:
+*   Install Tkinter (Python 3.x): If you're using Python 3.x, tkinter should be included in the standard library. However, on some systems, it might not be installed by default. You can install it using the package manager for your system. For         example, on Ubuntu, you can use sudo apt-get install python3-tk.
+*   Install Tkinter (Python 2.x): If you're using Python 2.x, tkinter is known as Tkinter. You can install it using the package manager for your system. For example, on Ubuntu, you can use sudo apt-get install python-tk.
+
+
     
 
 **Instructions**
